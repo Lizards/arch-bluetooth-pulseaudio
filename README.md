@@ -9,3 +9,10 @@ This package does the suggestions from the [Arch wiki](https://wiki.archlinux.or
 - Install the [`blueberry`](https://www.archlinux.org/packages/community/any/blueberry/) front end for Bluetooth
 - Install the [`pavucontrol`](https://www.archlinux.org/packages/extra/x86_64/pavucontrol/) front end for Pulse Audio
 - `bluez-utils` provides `bluetoothctl`, `alsa-utils` provides `alsamixer` for debugging
+
+## Installation with `aurutils`
+
+```
+$ aurbuild -d custom
+$ sudo pacman -Syu arch-bluetooth-pulseaudio
+```
