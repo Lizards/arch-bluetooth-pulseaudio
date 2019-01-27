@@ -13,6 +13,6 @@ This package does the suggestions from the [Arch wiki](https://wiki.archlinux.or
 ## Installation with `aurutils`
 
 ```
-$ aurbuild -d custom
+$ aur build -d custom
 $ sudo pacman -Syu arch-bluetooth-pulseaudio
 ```
