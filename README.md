@@ -1,3 +1,9 @@
+# Deprecated
+
+This package is no longer needed.
+
+Install [`blueman`](https://wiki.archlinux.org/title/Blueman) + [`pipewire`](https://wiki.archlinux.org/title/PipeWire) and you're good to go (at least I was on a ThinkPad X1 Carbon Gen 12).
+
 # arch-bluetooth-pulseaudio
 
 Bluetooth PulseAudio config for Arch.
